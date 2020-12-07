@@ -1,6 +1,6 @@
 # PES-Final-Project
 
-<br/>#**Project Topic**: Interrupt based motion and freefall detection on KL25Z-FRDM using MMA8451
+<br/>**Project Topic**: Interrupt based motion and freefall detection on KL25Z-FRDM using MMA8451
 
 <br/>**Introduction**: The final project makes use of the onboard MMA8451 accelerometer to detect freefall, motion and tap events. The TPM module on the KL25Z is used to control LED colours for various indications. A popular application for motion detection is auto-sleep and auto-wake in portable devices like cell phones and tablets. Freefall Detection is used in Active Hard Drive Protection technology.
 
