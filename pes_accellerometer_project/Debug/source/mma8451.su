@@ -1,0 +1,13 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+mma8451.c:45:6:Init_Interrupts	8	static
+mma8451.c:73:6:disable_interrupts	8	static
+mma8451.c:87:6:enable_interrupts	8	static
+mma8451.c:105:6:self_test	32	static
+mma8451.c:162:6:Init_Freefall	24	static
+mma8451.c:192:6:read_accelleration	24	static
+mma8451.c:232:6:Init_Motion	24	static
+mma8451.c:258:6:Init_Tap	24	static
+mma8451.c:293:6:Reset_Registers	16	static
+mma8451.c:314:6:PORTA_IRQHandler	8	static

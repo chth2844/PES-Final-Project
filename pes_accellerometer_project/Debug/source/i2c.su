@@ -1,0 +1,4 @@
+i2c.c:48:6:I2C_init	8	static
+i2c.c:72:6:I2C_WriteRegister	24	static
+i2c.c:100:15:I2C_ReadRegister	32	static
+i2c.c:137:6:Delay	24	static

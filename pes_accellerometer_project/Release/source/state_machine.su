@@ -1,0 +1,7 @@
+state_machine.c:64:6:control_led	16	static
+state_machine.c:83:6:freefall_detect	16	static
+state_machine.c:140:6:tap_detect	16	static
+state_machine.c:180:6:fsm	16	static
+state_machine.c:306:6:detect_motion	0	static
+state_machine.c:318:6:detect_freefall	0	static
+state_machine.c:330:6:detect_tap	0	static

@@ -1,0 +1,2 @@
+tpm.c:21:6:init_led_tpm	8	static
+tpm.c:74:6:set_colour	16	static
